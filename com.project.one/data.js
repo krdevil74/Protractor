@@ -1,0 +1,11 @@
+/**
+ * 
+ */
+module.exports={
+DataDrive:{
+	firstUser:{
+		"username":"yourusername",
+		"password":"yourpassword"
+	}
+}
+}
